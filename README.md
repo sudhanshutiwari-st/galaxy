@@ -27,8 +27,6 @@
             <button onclick="addToCart('Product 2', 15)">Add to Cart</button>
         </div>
 
-
- <section class="product-list">
         <div class="product">
             <img src="product1.jpg" alt="Product 3">
             <h3>Product 3</h3>
